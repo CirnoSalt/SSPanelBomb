@@ -1,5 +1,5 @@
 # SSPanelBomb
-![logo](https://bit-images.bj.bcebos.com/bit-new/file/20201011/iyl9.png)
+![logo](https://pic.rmb.bdstatic.com/bjh/f52f22e8921d1b3e6787ae1a6b0aa196.png)
 
 ## 简介
 一款用于SSPanel面板的压力测试脚本，支持多种常见接口。  
